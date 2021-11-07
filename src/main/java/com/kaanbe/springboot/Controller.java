@@ -11,7 +11,7 @@ public class Controller {
 
     @GetMapping("/test")
     public ResponseEntity<String> getTest() {
-        return ResponseEntity.ok("It just works");
+        return ResponseEntity.ok("AIK - Östersund 3-0");
     }
     
 }
