@@ -11,7 +11,7 @@ public class Controller {
 
     @GetMapping("/test")
     public ResponseEntity<String> getTest() {
-        return ResponseEntity.ok("Chaanges made");
+        return ResponseEntity.ok("Test");
     }
     
 }

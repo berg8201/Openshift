@@ -10,3 +10,4 @@ target/test-classes/com/kaanbe/springboot/ApplicationTests.class
 target/classes/com/kaanbe/springboot/Application.class
 target/classes/com/kaanbe/springboot/Application.class
 target/classes/com/kaanbe/springboot/Controller.class
+*.class
